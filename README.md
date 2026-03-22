@@ -14,6 +14,7 @@ This project implements a rule-based churn prediction system using DevOps practi
 1. >5 tickets → HIGH RISK
 2. Monthly increase + 3 tickets → MEDIUM RISK
 3. Month-to-Month + complaint → HIGH RISK
+4. Else → LOW RISK
 
 ## How to Run
 
